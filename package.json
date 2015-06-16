@@ -1,0 +1,14 @@
+{
+  "name": "node_randoms",
+  "version": "1.0.0",
+  "description": "Node Randoms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jlmanrique",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^0.7.5"
+  }
+}
